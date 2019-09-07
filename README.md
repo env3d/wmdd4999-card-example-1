@@ -8,4 +8,7 @@ Pay attention to React's framework:
  * draw() function changes the state
  * render is called when draw changes the state
 
-The result looks like this: ![Draw card app](screenshot.gif)
+All code are inside App.js
+
+The result looks like this:
+![Draw card app](screenshot.gif)
